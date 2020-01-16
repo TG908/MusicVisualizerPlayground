@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>fft</key>
+		<dict>
+			<key>Definition</key>
+			<string>The fast fourier transform is an algorithm for efficiently calculating the discrete fourier transform. Converting a signal from the time domain to the frequency domain. It is often used to analyse complex signals like audio, which are made from a sum of different sine waves.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Fast Fourier Transform</string>
+				<key>PageReference</key>
+				<string>Bars/Bars</string>
+			</dict>
+		</dict>
+		<key>frequency</key>
+		<dict>
+			<key>Definition</key>
+			<string>Frequency is the number of occurrences of a repeating event per unit, often measured in Hertz. In this playground frequency refers to a periodic vibration of air, audible to the human ear.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Frequency</string>
+				<key>PageReference</key>
+				<string>Bars/Bars</string>
+			</dict>
+		</dict>
+		<key>magnitude</key>
+		<dict>
+			<key>Definition</key>
+			<string>Meassurement of the energy carried by a sound wave.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Magnitude</string>
+				<key>PageReference</key>
+				<string>Bars/Bars</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

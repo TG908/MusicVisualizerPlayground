@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1000, 0}</string>
+			<key>OriginalContent</key>
+			<string>DE</string>
+			<key>OriginalRange</key>
+			<string>{1000, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>lan</string>
+			<key>ModifiedRange</key>
+			<string>{1001, 3}</string>
+			<key>OriginalContent</key>
+			<string>F</string>
+			<key>OriginalRange</key>
+			<string>{1003, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Walker</string>
+			<key>ModifiedRange</key>
+			<string>{1005, 6}</string>
+			<key>OriginalContent</key>
+			<string>KEV</string>
+			<key>OriginalRange</key>
+			<string>{1005, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Spe</string>
+			<key>ModifiedRange</key>
+			<string>{1014, 3}</string>
+			<key>OriginalContent</key>
+			<string>Invin</string>
+			<key>OriginalRange</key>
+			<string>{1011, 5}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>tr</string>
+			<key>ModifiedRange</key>
+			<string>{1018, 2}</string>
+			<key>OriginalContent</key>
+			<string>ibl</string>
+			<key>OriginalRange</key>
+			<string>{1017, 3}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>
+</string>
+			<key>ModifiedRange</key>
+			<string>{2239, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2239, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Particles.playgroundchapter/Pages/Particles.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

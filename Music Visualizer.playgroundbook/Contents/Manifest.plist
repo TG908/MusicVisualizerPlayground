@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Music Visualizer</string>
+	<key>ContentIdentifier</key>
+	<string>com.timgymnich.playgroundbook.template.MusicVisualizer</string>
+	<key>ContentVersion</key>
+	<string>1.0.1</string>
+	<key>ImageReference</key>
+	<string>banner.png</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>SwiftVersion</key>
+	<string>3.1</string>
+	<key>Chapters</key>
+	<array>
+		<string>Bars.playgroundchapter</string>
+		<string>Particles.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

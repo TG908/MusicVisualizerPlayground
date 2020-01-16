@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>20</string>
+			<key>ModifiedRange</key>
+			<string>{1018, 2}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##number of bars##Int#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{1018, 26}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>10</string>
+			<key>ModifiedRange</key>
+			<string>{1071, 2}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##width of the bars##CGFloat#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{1095, 33}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>5</string>
+			<key>ModifiedRange</key>
+			<string>{1126, 1}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##space between the bars##CGFloat#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{1181, 38}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.807843148708344</string>
+			<key>ModifiedRange</key>
+			<string>{1198, 16}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1290, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>02</string>
+			<key>ModifiedRange</key>
+			<string>{1225, 2}</string>
+			<key>OriginalContent</key>
+			<string>9</string>
+			<key>OriginalRange</key>
+			<string>{1301, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>4509806185961</string>
+			<key>ModifiedRange</key>
+			<string>{1228, 13}</string>
+			<key>OriginalContent</key>
+			<string>68045545</string>
+			<key>OriginalRange</key>
+			<string>{1303, 8}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.333333343267441</string>
+			<key>ModifiedRange</key>
+			<string>{1250, 16}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1320, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.0</string>
+			<key>ModifiedRange</key>
+			<string>{1276, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1330, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Bars.playgroundchapter/Pages/Bars.playgroundpage/Contents.swift</string>
+</dict>
+</plist>
